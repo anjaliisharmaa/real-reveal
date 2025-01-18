@@ -20,25 +20,6 @@ With deepfakes becoming increasingly prevalent, detecting manipulated content is
 
 ---
 
-## Repository Structure
-```
-Real-Reveal/
-├── README.md                # Project overview
-├── Research_Paper.pdf       # Detailed research paper
-├── notebooks/               # Jupyter notebooks
-│   ├── Training_BCE.ipynb   # Training with Binary Cross-Entropy
-│   ├── Training_Focal.ipynb # Training with Focal Loss
-│   ├── Training_Hinge.ipynb # Training with Hinge Loss
-├── models/                  # Pre-trained model files
-├── data/                    # Placeholder for dataset
-├── scripts/                 # Python scripts for preprocessing, training, and evaluation
-├── results/                 # Accuracy, loss curves, and metrics
-├── LICENSE                  # License file
-└── requirements.txt         # Python dependencies
-```
-
----
-
 ## Getting Started
 
 ### Installation
