@@ -16,7 +16,7 @@ With deepfakes becoming increasingly prevalent, detecting manipulated content is
   - Hinge Loss: Useful for margin-based classification.
 - **Dataset:** Over 190,000 images from Kaggle’s deepfake and real image datasets.
 - **Performance Metrics:** Accuracy, precision, recall, F1-score, and loss.
-- **Pre-trained Models:** Available for download on [Hugging Face]([#model-links](https://huggingface.co/anjaliisharmaa)).
+- **Pre-trained Models:** Available for download on [Hugging Face](https://huggingface.co/anjaliisharmaa).
 
 ---
 
