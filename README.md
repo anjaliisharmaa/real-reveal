@@ -38,9 +38,9 @@ The dataset used in this project includes 190,335 images of real and manipulated
 
 ### Pre-trained Models
 Download the pre-trained models from Hugging Face:
-- [Binary Cross-Entropy Model](https://huggingface.co/anjaliisharmaa/BCE_Model)
-- [Focal Loss Model](https://huggingface.co/anjaliisharmaa/Focal_Model)
-- [Hinge Loss Model](https://huggingface.co/anjaliisharmaa/Hinge_Model)
+- [Binary Cross-Entropy Model](https://huggingface.co/anjaliisharmaa/BCE-Model)
+- [Focal Loss Model](https://huggingface.co/anjaliisharmaa/Focal-Model)
+- [Hinge Loss Model](https://huggingface.co/anjaliisharmaa/Hinge-Model)
 
 Place the models in the `models/` directory.
 
