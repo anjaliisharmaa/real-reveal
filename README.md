@@ -25,8 +25,8 @@ With deepfakes becoming increasingly prevalent, detecting manipulated content is
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Real-Reveal.git
-   cd Real-Reveal
+   git clone https://github.com/anjaliisharmaa/real-reveal.git
+   cd real-reveal
    ```
 2. Install dependencies:
    ```bash
@@ -38,9 +38,9 @@ The dataset used in this project includes 190,335 images of real and manipulated
 
 ### Pre-trained Models
 Download the pre-trained models from Hugging Face:
-- [Binary Cross-Entropy Model](https://huggingface.co/yourusername/BCE_Model)
-- [Focal Loss Model](https://huggingface.co/yourusername/Focal_Model)
-- [Hinge Loss Model](https://huggingface.co/yourusername/Hinge_Model)
+- [Binary Cross-Entropy Model](https://huggingface.co/anjaliisharmaa/BCE_Model)
+- [Focal Loss Model](https://huggingface.co/anjaliisharmaa/Focal_Model)
+- [Hinge Loss Model](https://huggingface.co/anjaliisharmaa/Hinge_Model)
 
 Place the models in the `models/` directory.
 
@@ -72,8 +72,8 @@ jupyter notebook notebooks/Training_BCE.ipynb
 - **Hinge Loss**: Shows potential but requires further tuning for improved generalization.
 
 ### Visualizations
-- **Accuracy and Loss Curves:** Available in the `results/` folder.
-- **Sample Predictions:** Visual outputs of the models on test data are included in the `results/` folder.
+- **Accuracy and Loss Curves:** Available in the research paper.
+- **Sample Predictions:** Visual outputs of the models on test data are included in the research paper.
 
 ---
 
